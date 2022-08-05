@@ -1,4 +1,4 @@
-Hi there 👋! I'm Arthur Lima 💻
+## Hi there 👋! I'm Arthur Lima 💻
 
 <div align="center">
   <a href="https://github.com/arthurlimaaf">
